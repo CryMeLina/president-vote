@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969471898106",
+    "firebase_url": "https://prezident-selection-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "prezident-selection",
+    "storage_bucket": "prezident-selection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969471898106:android:b19dedf7912138c5d7b443",
+        "android_client_info": {
+          "package_name": "com.example.president_vote_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdLpgkcXkXQt2FdpF38ON1PzhaDrDF8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://prezident-selection-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">969471898106</string>
+    <string name="google_api_key" translatable="false">AIzaSyASdLpgkcXkXQt2FdpF38ON1PzhaDrDF8E</string>
+    <string name="google_app_id" translatable="false">1:969471898106:android:b19dedf7912138c5d7b443</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASdLpgkcXkXQt2FdpF38ON1PzhaDrDF8E</string>
+    <string name="google_storage_bucket" translatable="false">prezident-selection.appspot.com</string>
+    <string name="project_id" translatable="false">prezident-selection</string>
+</resources>

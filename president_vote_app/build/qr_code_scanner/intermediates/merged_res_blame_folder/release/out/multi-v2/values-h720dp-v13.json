@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.touchcapture.qr.flutterqr.qr_code_scanner-merged_res-21:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Darya\\.gradle\\caches\\transforms-3\\39978e17af52d60a914839ac39af0a5a\\transformed\\appcompat-1.4.2\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "net.touchcapture.qr.flutterqr.qr_code_scanner-mergeReleaseResources-19:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Darya\\.gradle\\caches\\transforms-3\\39978e17af52d60a914839ac39af0a5a\\transformed\\appcompat-1.4.2\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

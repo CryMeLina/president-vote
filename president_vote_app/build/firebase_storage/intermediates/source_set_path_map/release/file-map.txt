@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-0 C:\Users\Darya\.gradle\caches\transforms-3\20327abdfd74bf2f9bf0068f98a96da5\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-1 C:\Users\Darya\.gradle\caches\transforms-3\257e7532a250701e11f80222e16593db\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.1.0-2 C:\Users\Darya\.gradle\caches\transforms-3\47a6e1b1a5b09575e08e470e6e588902\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-3 C:\Users\Darya\.gradle\caches\transforms-3\62ae7344e4af17a053725ec87cbafa22\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.0.1-4 C:\Users\Darya\.gradle\caches\transforms-3\7e391d9c981460e3f32e7ad2056b2e29\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-5 C:\Users\Darya\.gradle\caches\transforms-3\91713be82f64ebfccdbb8536ebe3d0ed\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.2-6 C:\Users\Darya\.gradle\caches\transforms-3\f50c1b0c17275799162cd33c0477e459\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\Darya\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.5.2\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\Darya\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.5.2\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\firebase_storage\intermediates\merged_res\release

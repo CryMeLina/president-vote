@@ -1,0 +1,20 @@
+# Конфигурация Firebase
+config = {
+    "apiKey": "3HXhDRYmQadt14SLrTFlNt9puT5RGhb34moCndrt",
+    "databaseURL": "https://prezident-selection-default-rtdb.europe-west1.firebasedatabase.app",
+    "projectId": "prezident-selection",
+    "storageBucket": "prezident-selection.appspot.com",
+    "messagingSenderId": "pythonbot",
+    "appId": "1:969471898106:android:b19dedf7912138c5d7b443"
+}
+
+# Конфигурация Firebase
+config = {
+  "apiKey": "AIzaSyDlCXGUtNa0ZsX4jgs8qpS-VHzHTx-O0yU",
+  "authDomain": "prezident-selection.firebaseapp.com",
+  "databaseURL": "https://prezident-selection-default-rtdb.europe-west1.firebasedatabase.app",
+  "projectId": "prezident-selection",
+  "storageBucket": "prezident-selection.appspot.com",
+  "messagingSenderId": "969471898106",
+  "appId": "1:969471898106:web:45dd1fe4b419e77bd7b443"
+  }

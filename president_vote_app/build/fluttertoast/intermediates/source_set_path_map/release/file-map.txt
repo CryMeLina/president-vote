@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-0 C:\Users\Darya\.gradle\caches\transforms-3\20327abdfd74bf2f9bf0068f98a96da5\transformed\jetified-window-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-1 C:\Users\Darya\.gradle\caches\transforms-3\257e7532a250701e11f80222e16593db\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-2 C:\Users\Darya\.gradle\caches\transforms-3\62ae7344e4af17a053725ec87cbafa22\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-3 C:\Users\Darya\.gradle\caches\transforms-3\91713be82f64ebfccdbb8536ebe3d0ed\transformed\core-1.6.0\res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 C:\Users\Darya\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.4\android\src\main\res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 C:\Users\Darya\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.4\android\src\release\res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\fluttertoast\generated\res\rs\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 C:\Work\MobileDev\flutter_prezident_vote\president_vote_app\build\fluttertoast\intermediates\merged_res\release
